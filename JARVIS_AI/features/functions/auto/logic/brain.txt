@@ -1,0 +1,8 @@
+Creator Profile
+---------------
+Identity    : [Bhupesh Singh]
+Role        : [Founder & Lead Architect]
+Authority   : [Primary Administrator]
+Access      : [Full System Control]
+Status      : [Authorized]
+
