@@ -268,3 +268,11 @@ This project is provided for educational, research, and personal development pur
 JARVIS is built around a modular-first architecture where each subsystem operates independently while remaining fully connected through a centralized command and communication layer.
 
 This approach enables rapid feature expansion, simplified maintenance, and future transition toward autonomous AI systems.
+
+# Run
+python3 jarvis.py
+chmod +x jarvis.py
+./requirements.txt
+
+## single line run
+python3 jarvis.py & chmod +x jarvis.py & ./requirements.txt
